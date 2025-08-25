@@ -9,7 +9,7 @@ export default function Page() {
   };
 
   return (
-    <div className="relative w-full bg-yellow-50">
+    <div className="relative w-full bg-yellow-50 overflow-auto">
       <img src="/images/background.png" alt="background" />
       <div className="absolute top-[31.6%] left-[16%]">
         <BubbleText text="이제 본격적으로\nOO님의 사주팔자를\n분석해볼 차례네요." />
