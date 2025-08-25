@@ -10,7 +10,11 @@
   --color-red-800: #c23030;
   --color-teal-600: #18868c;
   --color-yellow-50: #f3f2ef;
-  --breakpoint-xs: 290px;
-  --breakpoint-sm: 340px;
-  --breakpoint-md: 380px;
+  --color-yellow-100: #f5f3ec;
+  --color-blue-950: #1b2f49;
+  --color-blue-900: #2b557e;
+  --breakpoint-xs: 270px;
+  --breakpoint-sm: 320px;
+  --breakpoint-md: 370px;
+  --breakpoint-lg: 420px;
 }
